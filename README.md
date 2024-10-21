@@ -2,7 +2,7 @@
 - 👀 I’m interested in how to control an ESP32 and Bleutooth (BLE) connection 
 - 🌱 I’m currently learning coding in IDE
 - 💞️ I’m looking to collaborate on software for controling a N-scale train layout
-- 📫 How to reach me sending a mail to pbakker1958@aoutlook.com
+- 📫 How to reach me sending a mail to pbakker1958@outlook.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
